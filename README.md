@@ -30,8 +30,6 @@ Gain actionable insights with my end-to-end Tableau portfolio piece, exploring k
   - Developed using SSMS for advanced data analytics and reporting.
   - Data cleansing, querying, and insight generation directly using Microsoft SQL Server Management Studio.
 
-- *(Add a brief description for any additional files as you grow the repo!)*
-
 ---
 ## 💡 Skills Demonstrated
 
